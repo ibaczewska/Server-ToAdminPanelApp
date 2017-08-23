@@ -1,16 +1,3 @@
 {
-  "users": [
-    {
-      "name": "Izabela",
-      "surname": "Baczewska",
-      "email": "izus001@wp.pl",
-      "role": "Guest",
-      "accepted": "Enable",
-      "description": "aa",
-      "phone": "122365478",
-      "position": "a",
-      "office": "Office 1",
-      "id": 1
-    }
-  ]
+  "users": []
 }
