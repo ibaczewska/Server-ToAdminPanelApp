@@ -1,3 +1,57 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Jan",
+      "surname": "Kowalski",
+      "email": "kowalski@gmail.com",
+      "role": "Guest",
+      "accepted": "Enable",
+      "description": "Description",
+      "phone": "667453234",
+      "position": "Position",
+      "office": "Office 1",
+      "id": 1
+    },
+    {
+      "name": "Janina",
+      "surname": "Kowalska",
+      "email": "kowalska@wp.pl",
+      "role": "Employee",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "664234345",
+      "position": "Position",
+      "office": "Office 2",
+      "id": 2
+    },
+    {
+      "name": "Tomasz",
+      "surname": "Nowak",
+      "email": "nowak@gmail.com",
+      "role": "Admin",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "667453980",
+      "position": "Position",
+      "office": "Office 3",
+      "id": 3
+    },
+    {
+      "name": "Zofiaaaa",
+      "surname": "Kowalewska",
+      "email": "zoska@wp.pl",
+      "role": "Admin",
+      "accepted": "Accepted",
+      "description": "Description",
+      "phone": "564738234",
+      "position": "POsition",
+      "office": "Office 5",
+      "id": 4
+    }
+  ],
+  "date": [
+    {
+      "data": ""
+    }
+  ]
 }
